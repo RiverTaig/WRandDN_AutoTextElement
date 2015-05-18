@@ -1,0 +1,10 @@
+C:\Code\Git\WRandDN_AutoTextElement\WRandDN_AutoTextElement\obj\Debug\WRandDN_AutoTextElement.csprojResolveAssemblyReference.cache
+C:\Code\Git\WRandDN_AutoTextElement\WRandDN_AutoTextElement\bin\Debug\WRandDN_AutoTextElement.dll
+C:\Code\Git\WRandDN_AutoTextElement\WRandDN_AutoTextElement\bin\Debug\WRandDN_AutoTextElement.pdb
+C:\Code\Git\WRandDN_AutoTextElement\WRandDN_AutoTextElement\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.dll
+C:\Code\Git\WRandDN_AutoTextElement\WRandDN_AutoTextElement\bin\Debug\Microsoft.Practices.Composite.Presentation.dll
+C:\Code\Git\WRandDN_AutoTextElement\WRandDN_AutoTextElement\bin\Debug\Microsoft.Practices.Composite.dll
+C:\Code\Git\WRandDN_AutoTextElement\WRandDN_AutoTextElement\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.xml
+C:\Code\Git\WRandDN_AutoTextElement\WRandDN_AutoTextElement\obj\Debug\WRandDN_AutoTextElement.dll
+C:\Code\Git\WRandDN_AutoTextElement\WRandDN_AutoTextElement\obj\Debug\WRandDN_AutoTextElement.pdb
+C:\Code\Git\WRandDN_AutoTextElement\WRandDN_AutoTextElement\bin\Debug\WRandDN_AutoTextElement.tlb
